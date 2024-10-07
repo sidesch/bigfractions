@@ -15,4 +15,4 @@ https://www.tutorialspoint.com/java/lang/character_islowercase.htm#:~:text=The%2
 https://www.digitalocean.com/community/tutorials/java-array-contains-value for the array contains method
 Paden Houck, my lab partner when working on the BigFraction.java methods.
 
-https://github.com/YOUR_GITHUB_ACCOUNT/REPO
+https://github.com/sidesch/bigfractions.git 
